@@ -1,4 +1,5 @@
-powerBuddyScripts - Fascination
+powerBuddyScripts
+Author: Fascination
 =================
 
 All open source powerBuddy Scripts made by me, can be found here.
